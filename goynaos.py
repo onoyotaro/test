@@ -1,0 +1,2 @@
+print("naoszo")
+print("naszo")
